@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5A1qUUxfNhbm6woLXm/HZN3bbxBHE6ei6y8KFXNqK/iMUt3zB0dcNb/cFWf6pjJQCCNx6A78ty1TVZVpEchig==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\CoreOracleWebApi\\CoreOracleWebApi\\CoreOracleWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.90\\oracle.manageddataaccess.core.2.19.90.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.6\\microsoft.netcore.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.6\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.win-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

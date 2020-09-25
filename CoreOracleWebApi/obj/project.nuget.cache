@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFZhoxg0gSQ53/cBgF80gE4apZDLppjllzI9koSx2/db0N/sGXdgoxEwHe9VLOtorY/V5O8Tra/zz9uUy86Xgw==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\CoreOracleWebApi\\CoreOracleWebApi\\CoreOracleWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.90\\oracle.manageddataaccess.core.2.19.90.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
